@@ -13,3 +13,7 @@ Storyblok is the headless content management system that empowers developers and
 Link: [https://nuxtjs.org/](https://nuxtjs.org/)
 
 Nuxt 3 Release Candidate
+
+## Requiremens
+
+Node >= 15.0.0
